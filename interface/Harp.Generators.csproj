@@ -28,7 +28,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="..\LICENSE" PackagePath="/" /> 
+    <Content Include="..\protocol\schema\common.yml" />
+    <Content Include="..\LICENSE" PackagePath="/" />
     <Content Include="..\icon.png" PackagePath="/" />
     <Content Include="*.tt" />
   </ItemGroup>

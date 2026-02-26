@@ -8,8 +8,8 @@
 
 ## Additional Documentation
 
-For additional documentation and examples, refer to [the GitHub repository](https://github.com/harp-tech/reflex-generator).
+For additional documentation and examples, refer to [the GitHub repository](https://github.com/harp-tech/generators).
 
 ## Feedback & Contributing
 
-`Harp.Generators` is released as open-source under the [MIT license](https://licenses.nuget.org/MIT). Bug reports and contributions are welcome at [the GitHub repository](https://github.com/harp-tech/reflex-generator).
+`Harp.Generators` is released as open-source under the [MIT license](https://licenses.nuget.org/MIT). Bug reports and contributions are welcome at [the GitHub repository](https://github.com/harp-tech/generators).

@@ -1,4 +1,4 @@
-# reflex-generator
+# Harp.Generators
 
 Provides repository templates supporting the automatic generation of firmware and [Bonsai](https://bonsai-rx.org/) interface code for new [Harp](https://harp-tech.org/) devices. Below are simple getting started instructions for maintainers to create a new device using the automatic code generators.
 

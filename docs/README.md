@@ -1,6 +1,6 @@
 # Harp.Generators
 
-Provides a device and IO pin configuration metadata model and runtime templates supporting the automatic generation of firmware and [Bonsai](https://bonsai-rx.org/) interface code for [Harp](https://harp-tech.org/) devices.
+Provides a device and IO pin configuration metadata model and a set of [T4 runtime templates](https://github.com/mono/t4) supporting the automatic generation of firmware and [Bonsai](https://bonsai-rx.org/) interface code for [Harp](https://harp-tech.org/) devices.
 
 ## Installing
 
@@ -58,6 +58,10 @@ var headers = generator.GenerateHeaders();
 var implementation = generator.GenerateImplementation();
 ```
 
+## Contributing
+
+Bug reports and contributions are welcome at [the GitHub repository](https://github.com/harp-tech/generators).
+
 ## License
 
-`Harp.Generators` is released as open source under the MIT License.
+`Harp.Generators` is released as open-source under the [MIT license](https://licenses.nuget.org/MIT).

@@ -38,10 +38,6 @@
           "images/**",
           "{articles,tutorials,examples}/**/*.{bonsai,svg}"
         ]
-      },
-      {
-        "src": "../build/",
-        "files": "icon.png"
       }
     ],
     "overwrite": [
